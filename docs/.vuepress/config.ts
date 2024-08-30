@@ -35,7 +35,7 @@ export default defineUserConfig({
     // 页脚配置
     footer: {
       message: 'Released under the MIT License.', // 版权信息或许可声明
-      copyright: 'Copyright © 2023-2024 电子科技大学', // 版权声明
+      copyright: 'Copyright © 2023-2024 hyit', // 版权声明
     },
 
   
