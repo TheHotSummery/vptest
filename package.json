@@ -1,0 +1,21 @@
+{
+  "name": "chengdu",
+  "version": "1.0.1",
+  "description": "大邑县",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "成都"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "devDependencies": {
+    "@iconify-json/twemoji": "^1.1.16",
+    "@vuepress/bundler-vite": "2.0.0-rc.15",
+    "vuepress": "2.0.0-rc.15",
+    "vuepress-theme-plume": "1.0.0-rc.90"
+  }
+}
